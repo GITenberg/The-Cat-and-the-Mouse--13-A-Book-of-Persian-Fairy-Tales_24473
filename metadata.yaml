@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '26518'
     url: http://www.gutenberg.org/2009/agents/26518
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24473#The-Cat-and-the-Mouse--13-A-Book-of-Persian-Fairy-Tales
 gutenberg_bookshelf:
 - Folklore
 - Children's Myths, Fairy Tales, etc.
